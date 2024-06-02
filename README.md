@@ -36,7 +36,7 @@ https://github.com/MYSELF-SAYAN/blog_app_frontend/assets/116438215/6cc20781-5e70
 
 **Backend:** Spring Boot (my first time!), Java, Redis, MongoDB, Docker
 ## <a name="backend"> Backend Code </a>
-[Code]([https://twitter.com/](https://github.com/MYSELF-SAYAN/blog_app_springboot_api))
+[Code](https://github.com/MYSELF-SAYAN/blog_app_springboot_api)
 ## <a name="contributing"> Contributing </a>
 
 Contributions are always welcome!
